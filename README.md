@@ -1,2 +1,5 @@
-# hello-word
-the frist
+#include<stdio.h>
+int main(){
+  printf("hello word!");
+  return o;
+}
